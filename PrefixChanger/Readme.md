@@ -12,8 +12,10 @@
     *Don't forget to ending with  **"\"** slash after path*
    ![image](https://github.com/Hiteshpadakanti/JAVA_BASIC_CODES/assets/113940341/95b683a5-2449-4faf-bd8b-c06c47a0486d)
 4. It will give an output as
+
    **Before**
    ![image](https://github.com/Hiteshpadakanti/JAVA_BASIC_CODES/assets/113940341/2017263a-3618-408d-9bc0-06a99217977b)
+   
    **After**
    ![image](https://github.com/Hiteshpadakanti/JAVA_BASIC_CODES/assets/113940341/49ca1267-6bbf-4983-87cf-a25d8afe9282)
 
